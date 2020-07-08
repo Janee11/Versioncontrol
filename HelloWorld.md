@@ -2,7 +2,7 @@
 title: "HelloWorld"
 author: "Jeanne"
 date: "7/8/2020"
-output: pdf_document
+output: word_document
 ---
 
 ```{r setup, include=FALSE}
@@ -12,6 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## R Markdown
 
 This is a markdown file
+
 ```{r cars}
 summary(cars)
 ```
